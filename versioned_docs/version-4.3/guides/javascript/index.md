@@ -250,8 +250,8 @@ Once you have written a JavaScript module you need a way to include it within yo
 
 Moodle has three main ways to include your JavaScript and the best way will depend on your content. These are:
 
-- from a template via `requirejs`;
-- from PHP via the output requirements API; and
+- from a template via `requirejs`.
+- from PHP via the output requirements API.
 - from other JavaScript via `import` or `requirejs`.
 
 ### Including from a template
